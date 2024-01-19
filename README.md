@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!👋 I'm Varsha</h1>
 
-<p align="left">🚀 After 4.5 years of honing my skills as a Salesforce developer, I've decided to embark on an exciting journey into the world of MERN stack development. My love for crafting seamless web applications has only deepened, and I'm thrilled to bring my expertise to this dynamic tech stack. I'm passionate about creating scalable and efficient systems. Currently, I'm focusing on honing my skills in system design, understanding how to architect applications that can handle increasing complexity and scale gracefully.
+<p align="left">🚀 After 4.5 years of honing my skills as a Salesforce developer, I've decided to embark on an exciting journey into the world of web development. My love for crafting seamless web applications has only deepened, and I'm thrilled to bring my expertise to this dynamic tech stack. I'm passionate about creating scalable and efficient systems. Currently, I'm focusing on honing my skills in system design, understanding how to architect applications that can handle increasing complexity and scale gracefully.
 </h3>
 
 🔭 **I’m currently working on**<br/>
