@@ -9,9 +9,6 @@
 🌱 **I’m currently learning** <br/>
 <span>I'm on an exciting learning journey, expanding my skills in key areas of web development and system design.</span>
 
-💬 **Ask me about** <br/>
-<span>JavaScript, React, Node.js, AWS, and any general software development questions.</span>
-
 ⚡ **Fun fact:** <br/>
 <span>When I'm not immersed in the world of coding, you'll often find me lost in the realm of creativity. I have a passion for creating intricate drawings 🎨✏️🌈</span>
 
