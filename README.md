@@ -19,6 +19,7 @@
 
 <h1 align="left">Tech Stack:</h1>
 <p align="left">    
+ <span> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="Salesforce" width="40" height="40" /> </span>
  <span >
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
  </span> 
@@ -71,7 +72,7 @@
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
  </span> -->
  <span href="#">
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40" />
  </span> 
  <span href="#">
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
