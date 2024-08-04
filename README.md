@@ -19,7 +19,7 @@
 
 <h1 align="left">Tech Stack:</h1>
 <p align="left">    
- <span> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="Salesforce" width="40" height="40" /> </span>
+ <span> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="Salesforce" width="60" height="40" /> </span>
  <span >
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
  </span> 
