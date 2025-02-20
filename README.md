@@ -1,13 +1,13 @@
 <h1 align="center">Hi there!👋 I'm Varsha</h1>
 
-<p align="left">🚀 After 4.5 years of honing my skills as a Salesforce developer, I've decided to embark on an exciting journey into the world of web development. My love for crafting seamless web applications has only deepened, and I'm thrilled to bring my expertise to this dynamic tech stack. I'm passionate about creating scalable and efficient systems, understanding how to architect applications that can handle increasing complexity and scale gracefully.
+<p align="left">🚀 With 4.5 years of experience as a Salesforce Developer, I have built and optimized scalable enterprise applications using Lightning Web Components (LWC), Apex, and Salesforce B2B Commerce Cloud. To broaden my expertise, I deep-dived into system design, scalable architectures, and full-stack development—mastering React.js, Node.js, API development, and backend optimizations. I am passionate about building high-performance, scalable systems and architecting applications that handle increasing complexity with efficiency.
 </h3>
 
 🔭 **I’m currently working on**<br/>
-<span>Immersed in the exciting world of MERN stack development, crafting robust and scalable web applications.</span>
+<span>Immersed Exploring scalable system architectures, performance optimization, and full-stack development to build robust enterprise applications.</span>
 
 🌱 **I’m currently learning** <br/>
-<span>I'm on an exciting learning journey, expanding my skills in key areas of web development and system design.</span>
+<span>Deepening my knowledge of system design, API development, and scalable frontend-backend integrations to enhance enterprise-grade solutions.</span>
 
 ⚡ **Fun fact:** <br/>
 <span>When I'm not immersed in the world of coding, you'll often find me lost in the realm of creativity. I have a passion for creating intricate drawings 🎨✏️🌈</span>
@@ -82,7 +82,9 @@
 
 <h2 align="left">🤝 Let's Connect</h2>
 
-<p>I'm always open to collaboration and learning from fellow developers. If you share a passion for web development or have insights to offer, let's connect! Feel free to reach out via LinkedIn. Feel free to follow along with my learning journey by exploring the code in my repositories. Your insights and suggestions are always welcome as I navigate through the exciting realms of React.js, Node.js, and system design! 🌐🚀
+<p> I'm always open to collaboration and knowledge-sharing with fellow developers. If you're passionate about system design, scalability, or enterprise-grade solutions, let's connect!
+
+Feel free to explore my repositories and follow my journey as I dive deeper into frontend-backend optimizations, API development, and high-performance architectures. Your insights and suggestions are always welcome! 🌐🚀
 
 Thanks for stopping by, and happy coding! 🚀 </p>
 
